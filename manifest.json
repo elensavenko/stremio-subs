@@ -5,6 +5,7 @@
   "description": "Hebrew subtitles for Dune",
   "resources": ["subtitles"],
   "types": ["movie"],
+  "catalogs": [],
   "idPrefixes": ["tt"],
   "subtitles": [
     {
