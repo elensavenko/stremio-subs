@@ -1,0 +1,16 @@
+{
+  "id": "org.elensavenko.dune.subtitles",
+  "version": "1.0.0",
+  "name": "Dune Hebrew Subtitle",
+  "description": "Hebrew subtitles for Dune",
+  "resources": ["subtitles"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"],
+  "subtitles": [
+    {
+      "id": "tt1160419",
+      "url": "https://raw.githubusercontent.com/elensavenko/stremio-subs/refs/heads/main/Dune.2021.1080p.WEB.H264-NAISU.srt",
+      "lang": "heb"
+    }
+  ]
+}
